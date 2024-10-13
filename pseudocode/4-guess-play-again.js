@@ -1,4 +1,4 @@
-/* Guess Game Program by [your name here]
+/* Guess Game Program by [Artur Sad]
  * Adds the ability to play again. 
  */
 
